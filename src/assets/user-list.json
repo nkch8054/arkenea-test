@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Navin",
+        "email": "nkch754964@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Navin",
+        "email": "nkch754964@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Sahil",
+        "email": "sahil@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Hemant",
+        "email": "hemant@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Prabhash",
+        "email": "prabhash@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Prabhash",
+        "email": "prabhash@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Prabhash",
+        "email": "prabhash@gmail.com",
+        "gender": "male",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Komal",
+        "email": "komal@gmail.com",
+        "gender": "female",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    },
+    {
+        "name": "Mamta",
+        "email": "mamta@gmail.com",
+        "gender": "female",
+        "address": "mohali",
+        "dateOfBirth": "28/10/1995"
+    }
+]
